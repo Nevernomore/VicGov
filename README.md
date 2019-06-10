@@ -3,7 +3,9 @@ Use of Twitter to analyze Victorian government agencies
 
 sentiment_analysis.py : do sentiment analysis
 
-follower_location_analysis.py : get all the followers' locations and see the distribution
+follower_location_analysis.py : get all the followers' locations
+
+follower_analysis.ipynb : see their distribution
 
 WordCloud.ipynb : find the hashtags and make a word cloud
 
